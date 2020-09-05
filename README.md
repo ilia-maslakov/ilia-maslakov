@@ -1,7 +1,7 @@
 # Hi, I'm Ilia
 
 
-[![LinkedIn](https://img.shields.io/static/v1?label=LinkedIn&message=%20&color=pink&logo=LinkedIn&style=flat-square&logoColor=white)](https://www.linkedin.com/in/ilia-maslakov/)
+[![LinkedIn](https://img.shields.io/static/v1?label=LinkedIn&message=%20&color=white&logo=LinkedIn&style=flat-square&logoColor=white)](https://www.linkedin.com/in/ilia-maslakov/)
 
 ## About me
 
@@ -15,8 +15,20 @@ I pursued a MSc in telecommunications, applied mathematics, machine learning and
 
 ## Languages and Technologies I use daily
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png"></code><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code><code><img height="20" src="https://github.com/ilia-maslakov/ilia-maslakov/blob/master/logo/jquery.png"></code><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/styled-components/styled-components.png"></code><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code><code><img height="20" src="https://raw.githubusercontent.com/ilia-maslakov/ilia-maslakov/9e91c0c656f6769628259685dd3f284b7b7c24ae/logo/css.png"></code><code><img height="20" src="https://github.com/ilia-maslakov/ilia-maslakov/blob/master/logo/opencv.png"></code><code><img height="20" src="https://github.com/ilia-maslakov/ilia-maslakov/blob/master/logo/python.png"></code><code><img height="20" src="https://github.com/ilia-maslakov/ilia-maslakov/blob/master/logo/pytorch.png"></code><code><img height="20" src="https://github.com/ilia-maslakov/ilia-maslakov/blob/master/logo/sql.png"></code><code><img height="20" src="https://github.com/ilia-maslakov/ilia-maslakov/blob/master/logo/oracledb.png"></code>
+<code><img height="20" src="https://github.com/ilia-maslakov/ilia-maslakov/blob/master/logo/csharp.png"></code>
+<code><img height="20" src="https://github.com/ilia-maslakov/ilia-maslakov/blob/master/logo/vscode.png"></code>
+<code><img height="20" src="https://github.com/ilia-maslakov/ilia-maslakov/blob/master/logo/ubuntu.png"></code>
+<code><img height="20" src="https://github.com/ilia-maslakov/ilia-maslakov/blob/master/logo/javascript.png"></code>
+<code><img height="20" src="https://github.com/ilia-maslakov/ilia-maslakov/blob/master/logo/jquery.png"></code>
+<code><img height="20" src="https://github.com/ilia-maslakov/ilia-maslakov/blob/master/logo/docker.png"></code>
+<code><img height="20" src="https://github.com/ilia-maslakov/ilia-maslakov/blob/master/logo/html.png"></code>
+<code><img height="20" src="https://github.com/ilia-maslakov/ilia-maslakov/blob/master/logo/css.png"></code>
+<code><img height="20" src="https://github.com/ilia-maslakov/ilia-maslakov/blob/master/logo/opencv.png"></code>
+<code><img height="20" src="https://github.com/ilia-maslakov/ilia-maslakov/blob/master/logo/python.png"></code>
+<code><img height="20" src="https://github.com/ilia-maslakov/ilia-maslakov/blob/master/logo/pytorch.png"></code>
+<code><img height="20" src="https://github.com/ilia-maslakov/ilia-maslakov/blob/master/logo/sql.png"></code>
+<code><img height="20" src="https://github.com/ilia-maslakov/ilia-maslakov/blob/master/logo/firebirdsql.png"></code>
+<code><img height="20" src="https://github.com/ilia-maslakov/ilia-maslakov/blob/master/logo/oracledb.png"></code>
 
 
 
