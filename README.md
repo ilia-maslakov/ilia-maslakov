@@ -6,13 +6,20 @@
 ## About me
 
  <strong>I'm a Fullstack Developer</strong>
+ 
+I used to define myself as a Python fan, nowadays I would most likely just say I like Python, С and Bash as my favorite programming languages!
+..but every day I write code in C# language.
 
+I pursued a MSc in telecommunications, applied mathematics, machine learning and computer science, at the SPbUT (Saint Petersburg) 
 <img align='center' src="https://github-readme-stats.vercel.app/api?username=ilia-maslakov&show_icons=true">
 
 ## Languages and Technologies I use daily
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png"></code><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png"></code><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/styled-components/styled-components.png"></code><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code><code><img height="20" src="https://raw.githubusercontent.com/ilia-maslakov/ilia-maslakov/9e91c0c656f6769628259685dd3f284b7b7c24ae/logo/css.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png"></code><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png"></code><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/styled-components/styled-components.png"></code><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code><code><img height="20" src="https://raw.githubusercontent.com/ilia-maslakov/ilia-maslakov/9e91c0c656f6769628259685dd3f284b7b7c24ae/logo/css.png"></code><code><img height="20" src="https://github.com/ilia-maslakov/ilia-maslakov/blob/master/logo/opencv.png"></code><code><img height="20" src="https://github.com/ilia-maslakov/ilia-maslakov/blob/master/logo/python.png"></code><code><img height="20" src="https://github.com/ilia-maslakov/ilia-maslakov/blob/master/logo/pytorch.png"></code><code><img height="20" src="https://github.com/ilia-maslakov/ilia-maslakov/blob/master/logo/sql.png"></code><code><img height="20" src="https://github.com/ilia-maslakov/ilia-maslakov/blob/master/logo/oracledb.png"></code>
+
+
+
 
 **Database**
 
