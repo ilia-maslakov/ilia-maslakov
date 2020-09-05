@@ -23,6 +23,7 @@ I pursued a MSc in telecommunications, applied mathematics, machine learning and
 <code><img height="20" src="https://github.com/ilia-maslakov/ilia-maslakov/blob/master/logo/docker.png"></code>
 <code><img height="20" src="https://github.com/ilia-maslakov/ilia-maslakov/blob/master/logo/html.png"></code>
 <code><img height="20" src="https://github.com/ilia-maslakov/ilia-maslakov/blob/master/logo/css.png"></code>
+<code><img height="20" src="https://github.com/ilia-maslakov/ilia-maslakov/blob/master/logo/bootstrap.png"></code>
 <code><img height="20" src="https://github.com/ilia-maslakov/ilia-maslakov/blob/master/logo/opencv.png"></code>
 <code><img height="20" src="https://github.com/ilia-maslakov/ilia-maslakov/blob/master/logo/python.png"></code>
 <code><img height="20" src="https://github.com/ilia-maslakov/ilia-maslakov/blob/master/logo/pytorch.png"></code>
